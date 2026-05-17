@@ -55,10 +55,6 @@ I am a versatile **Full Stack Developer** and **Graphic Designer** with a strong
 
 ## 🏆 Most Used Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=gopaltiwari&layout=compact&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=0D1117&hide_border=true" width="60%" alt="Top Languages" />
-</div>
-
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html&theme=dark" width="20" align="center"/> HTML &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css&theme=dark" width="20" align="center"/> CSS &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js&theme=dark" width="20" align="center"/> JavaScript
