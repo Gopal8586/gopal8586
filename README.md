@@ -52,16 +52,6 @@ I am a versatile **Full Stack Developer** and **Graphic Designer** with a strong
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,figma,python,tailwind,git,github&theme=dark" alt="Tech Stack" />
 </div>
 
----
-
-## 📊 GitHub Stats (Orange & Black Theme)
-
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gopaltiwari&show_icons=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=0D1117&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopaltiwari&background=0D1117&border=0D1117&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=FF9900&dates=FFFFFF&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🏆 Most Used Languages
 
