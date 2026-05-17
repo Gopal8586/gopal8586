@@ -57,7 +57,7 @@ I am a versatile **Full Stack Developer** and **Graphic Designer** with a strong
 ## 📊 GitHub Stats (Orange & Black Theme)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopaltiwari&show_icons=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=0D1117&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gopaltiwari&show_icons=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=0D1117&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopaltiwari&background=0D1117&border=0D1117&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=FF9900&dates=FFFFFF&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
@@ -66,34 +66,21 @@ I am a versatile **Full Stack Developer** and **Graphic Designer** with a strong
 ## 🏆 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopaltiwari&layout=compact&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=0D1117&hide_border=true" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=gopaltiwari&layout=compact&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=0D1117&hide_border=true" width="60%" alt="Top Languages" />
 </div>
 
 ### 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
+- <img src="https://skillicons.dev/icons?i=html&theme=dark" width="20" align="center"/> HTML
+- <img src="https://skillicons.dev/icons?i=css&theme=dark" width="20" align="center"/> CSS
+- <img src="https://skillicons.dev/icons?i=js&theme=dark" width="20" align="center"/> JavaScript
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- PHP
+- <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="20" align="center"/> Node.js
+- <img src="https://skillicons.dev/icons?i=express&theme=dark" width="20" align="center"/> Express.js
+- <img src="https://skillicons.dev/icons?i=php&theme=dark" width="20" align="center"/> PHP
 
 ### 🗄️ Database
-- MongoDB
-- MySQL
-- MongoDB Atlas
+- <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="20" align="center"/> MongoDB
+- <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="20" align="center"/> MySQL
+- <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="20" align="center"/> MongoDB Atlas
 
----
-
-## 🐍 Contribution Graph
-
-> **Note:** To make the snake animation work, you'll need to set up a GitHub Action to generate the SVGs. Follow the instructions [here](https://github.com/Platane/snk).
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gopaltiwari/gopaltiwari/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gopaltiwari/gopaltiwari/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gopaltiwari/gopaltiwari/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
