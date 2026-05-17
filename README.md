@@ -34,7 +34,7 @@ I am a versatile **Full Stack Developer** and **Graphic Designer** with a strong
 
 | Project Name | Category | Description |
 |--------------|----------|-------------|
-| **[VegBites](https://vegbite-final-inau.vercel.app/)** | Full Stack Website | Dynamic web platform with a custom orange/black theme. |
+| **[VegBites](https://vegbite-final-inau.vercel.app/)** | Full Stack Website | Dynamic web platform with a custom green veg theme. |
 | **[NovaGrowth](https://ngmhs.com/)** | Website | Professional digital platform and website. |
 | **[AnimaDoc](https://www.figma.com/design/BY9EGSJQ4us3eQUAhbgr2M/AnimaDoc_UI?node-id=14-2517&p=f&t=46ebjruZD5X8uRMS-0)** | UI/UX Case Study | Professional interface design and user experience layout. |
 | **[SenseHire](https://www.figma.com/design/CbWMY2Ab9x8ZFiDKpB5rPG/8_Dashboards?node-id=2696-11881&p=f&t=oeYGECTfXreVv7h0-0)** | UI/UX Case Study | High-quality application interface design. |
